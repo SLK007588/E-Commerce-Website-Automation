@@ -23,7 +23,5 @@ This project automates a complete user flow on an e-commerce website using **Jav
 - **IDE**: Eclipse / IntelliJ  
 - **Dependencies**: `selenium-java`, `chromedriver`, `chromeoptions`
 
----
 
-## 📁 File Structure
 
